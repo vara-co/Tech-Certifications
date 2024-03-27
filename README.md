@@ -6,7 +6,9 @@ Google Certificate - Foundations: Data, Data, Everywhere (Coursera 45GZZLNM4F7T.
 The rest are work in progress
 
 IBM's SkillsBuild
-Data Science in Our World(IBM_DSIOW)
+Introduction to Data Concepts(IBM_ITDC.png)
+Data Science in Our World(IBM_DSIOW.png)
+
 
 
 
