@@ -1,6 +1,8 @@
-# Tech-Certifications
+# Tech-Certifications & Resume
 
-**These are the certifications that back-up some of my skills.**
+- [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_DA_2024PK.pdf)
+
+## **Below, you'll find certifications that back-up some of my skills.**
 
 **DU Denver University - Data Analytics & Visualization Bootcamp Certificate:** (Currently Enrolled) <br>
 (Start date December 11th 2023 - End date June 10th 2024) <br>
