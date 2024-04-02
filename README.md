@@ -1,4 +1,4 @@
-# Tech-Certifications & Resume
+# Resume & Tech-Certifications
 
 - [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_DA_2024PK.pdf)
 
