@@ -1,6 +1,6 @@
 # Resume & Tech-Certifications
 
-- [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_DA_2024PK.pdf)
+- [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_CS_2024_yrs4printing.pdf)
 
 ## **Below, you'll find certifications that back-up some of my skills.**
 
