@@ -4,7 +4,7 @@
 
 ## **Below, you'll find certifications that back-up some of my skills.**
 
-**DU Denver University - Data Analytics & Visualization Bootcamp Certificate:** (Currently Enrolled) <br>
+**DU Denver University - Data Analytics & Visualization Bootcamp Certificate:**  <br>
 (Start date December 11th 2023 - End date June 10th 2024) <br>
 
 **Google Data Analytics Certificate:** <br>
