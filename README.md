@@ -4,6 +4,9 @@
 
 ## **Below, you'll find certifications that back-up some of my skills.**
 
+**UDACITY - Front End Web Development:** <br>
+- [Udacity - FEND Certification](https://github.com/vara-co/Tech-Certifications/blob/main/FEND_Certification.pdf)<br>
+
 **DU Denver University - Data Analytics & Visualization Bootcamp Certificate:**  <br>
 - [DU Data Analytics Certificate](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_DU_DAcertificate2024.pdf)<br>
 
